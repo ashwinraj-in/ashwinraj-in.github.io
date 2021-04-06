@@ -370,6 +370,20 @@ img{
   display: table;
 }
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.imtc {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.imtr::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .familiar_cont
 {
   width: 250px;
