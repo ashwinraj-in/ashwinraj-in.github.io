@@ -1,5 +1,5 @@
 # Ashwin Raj Portfolio
-This repository contains the code for a clean, minimilistic and responsive website that can be used to host portfolios, blog and/or personal website. The site is hosted using GitHub Pages. To view the live website, [click here](http://ashwinraj-in.github.io/).
+This repository contains the code for a clean, minimilistic and responsive website that can be used to host portfolios, blog and/or simple personal website. The site is hosted using GitHub Pages. To view the live website, [click here](http://ashwinraj-in.github.io/).
 
 This repository is distributed under the Creative Commons Zero v1.0 Universal License and is maintained by [Ashwin Raj](https://github.com/ashwinraj-in)
 
