@@ -6,6 +6,9 @@ This repository is distributed under the Creative Commons Zero v1.0 Universal Li
 
 ![Demo](https://github.com/ashwinraj-in/ashwinraj-in.github.io/blob/main/Demo.gif)
 
+
+This is a fully responsive website designed using HTML5 and CSS3. The code for designing the navigation bar and presenting the typing animation, used in the home screen is present in ```main.js``` file. 
+
 # Technology Stack and Development
 
 ### Dependencies
